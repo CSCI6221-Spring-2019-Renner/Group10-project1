@@ -1,4 +1,4 @@
 # Group10-project1
-BlackJack project
+BlackJack project  
 Group members: Tzuchien Liu, Guantao Zhao
 
